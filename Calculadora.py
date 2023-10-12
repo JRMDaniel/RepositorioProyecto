@@ -44,3 +44,6 @@ while True:
         print("Resultado: ", division(num1, num2))
     else:
         print("Opción no válida")
+
+
+######MODIFICACIÓN DE CALCULADORA##########
